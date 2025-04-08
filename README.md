@@ -33,7 +33,7 @@
 <br>
 
 ### ⛺ Experiences
-<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+<p> KDT 플랫폼(JAVA,Spring)개발</p>
 
 <br>
 
