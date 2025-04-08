@@ -51,7 +51,7 @@
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: http://febseo.dothome.co.kr
+[website]: http://hsyoon.dothome.co.kr
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
 [instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
