@@ -30,8 +30,9 @@
 
 <br>
 
-### ⛺ Experiences
-<p> KDT 플랫폼(JAVA,Spring)개발</p>
+### 📝 license
+<p>전자기기기능사</p>
+<p>정보기기운용기능사</p>
 
 <br>
 
@@ -40,11 +41,8 @@
 
 <br>
 
-### 📝 license
-<p>전자기기기능사</p>
-<p>정보기기운용기능사</p>
-
-
+### ⛺ Experiences
+<p> KDT 플랫폼(JAVA,Spring)개발</p>
     
 <br>
 
