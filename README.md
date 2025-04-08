@@ -50,6 +50,8 @@
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/?size=100&id=AS2a6aA9BwK3&format=png&color=000000" />][instagram]
+
 
 [website]: http://hsyoon.dothome.co.kr
 [youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
