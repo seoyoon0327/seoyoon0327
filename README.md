@@ -3,7 +3,7 @@
 <br>
 
 ### 🙋 I'm Seoyoon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 MC입니다. <br>
+🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 Seoyoon입니다. <br>
 🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
 🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
 🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
@@ -48,6 +48,12 @@
 
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+- 📫 How to reach me **try123vv@naver.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
 
