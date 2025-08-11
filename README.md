@@ -1,85 +1,64 @@
+# 👋 안녕하세요!  개발자 **홍서윤**입니다.
 
-<h1>Hi 👋, I'm Seoyoon</h1>
-<br>
+꾸준한 학습과 실습을 바탕으로, 사용자 경험을 고려한 웹 애플리케이션을 만드는 데 집중하고 있습니다.  
+Java & Spring 기반의 백엔드 개발뿐 아니라, 실무에 가까운 클론 코딩을 통해 UI/UX 개선에도 관심을 가지고 있습니다.  
+Notion에 학습 과정을 체계적으로 정리하고 있으며, 코딩뿐 아니라 문서화와 사용자 중심 설계에도 강점을 갖고 있습니다.
 
-### 🙋 I'm Seoyoon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 Seoyoon입니다. <br>
-🔅 학습한 다양한 지식을 노션에 정리함으로써, 이후 프로젝트에 활용 가능하도록 하고 있습니다. <br>
-🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
+---
 
-<br>
+## 🛠 기술 스택 (Tech Stack)
 
-### 🛠 Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat-square&logo=Java&logoColor=4479A1"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
-</p>
+### 💻 Backend
+- Java, JSP, Servlet
+- Spring Framework (Legacy), MyBatis, Oracle SQL
 
-<br>
+### 🎨 Frontend
+- HTML5, CSS3, JavaScript (ES6)
+- jQuery, Bootstrap, 반응형 웹 (RWD)
 
-### 📝 license
-<p>전자기기기능사</p>
-<p>정보기기운용기능사</p>
+### 🧰 Tools & ETC
+- Git, GitHub, Eclipse, VSCode
+- Apache Tomcat, Maven
+- Notion, Photoshop, Figma
 
-<br>
+---
 
-### 🎓 Education
-<p>광운전자공업고등학교 컴퓨터전자과  |  2014.03 ~ 2017.02 </p>
+## 📁 프로젝트
 
-<br>
+| 프로젝트명 | 설명 | 기술스택 |
+|------------|------|----------|
+| [📋 Spring 게시판 CRUD](https://github.com/#) | Spring Legacy 기반 CRUD 게시판 구현 + 페이징/검색 기능 | Java, Spring, MyBatis, Oracle |
+| [🚲 따릉이 클론 코딩](https://github.com/#) | 서울 공공자전거 사이트 클론. 반응형, 슬라이더, 스타일 가이드 포함 | HTML, CSS, jQuery |
+| [🍎 Apple 스타일 모바일 웹](https://github.com/#) | 영상 배경과 애니메이션 중심의 싱글 페이지 사이트 | HTML, CSS, JS |
+| [🎬 영화 소개 페이지](https://github.com/#) | 영화 '기생충' 테마 클론, 반응형 웹 UI 구성 | HTML, CSS, jQuery |
 
-### ⛺ Experiences
-<p> KDT 플랫폼(JAVA,Spring)개발</p>
-    
-<br>
+👉 더 많은 프로젝트는 [My GitHub Repos](https://github.com/seoyoon0327?tab=repositories)에서 확인하세요.
 
-### 📫 Connect with me
+---
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+## 📝 Notion 학습 문서
 
+학습한 내용을 정리한 Notion 페이지입니다:  
+📘 [Notion 정리 바로가기](https://notion.so/#)
 
+---
 
+## 📫 연락처
 
-[website]: http://hsyoon.dothome.co.kr
-[instagram]: https://www.instagram.com/  
+- Email: try123vv@naver.com  
+- GitHub: [junedeveloper](https://github.com/seoyoon0327)  
+- Blog (준비 중)
 
-<br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<!-- 깃허브 방문자 수 뱃지 (원하면 추가) -->
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=seoyoon0327&color=blue)
 
 
+<!-- 깃허브 통계 뱃지 -->
 
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon0327&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon0327&show_icons=true&theme=default)
 
 
-<!--
-**seoyoon0327/seoyoon0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
