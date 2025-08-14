@@ -29,7 +29,6 @@ Notion에 학습 과정을 체계적으로 정리하고 있으며, 코딩뿐 아
 |------------|------|----------|
 | [📋 Spring 게시판 CRUD](https://github.com/seoyoon0327/githubTest) | Spring Legacy 기반 CRUD 게시판 구현 | Java, Spring, MyBatis, Oracle |
 | [🚲 따릉이 클론 코딩](https://github.com/#) | 서울 공공자전거 사이트 클론. 반응형, 슬라이더, 스타일 가이드 포함 | HTML, CSS, jQuery |
-| [🍎 Apple 스타일 모바일 웹](https://github.com/#) | 영상 배경과 애니메이션 중심의 싱글 페이지 사이트 | HTML, CSS, JS |
 
 👉 더 많은 프로젝트는 [My GitHub Repos](https://github.com/seoyoon0327?tab=repositories)에서 확인하세요.
 
