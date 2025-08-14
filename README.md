@@ -19,7 +19,7 @@ Notion에 학습 과정을 체계적으로 정리하고 있으며, 코딩뿐 아
 ### 🧰 Tools & ETC
 - Git, GitHub, Eclipse, VSCode
 - Apache Tomcat, Maven
-- Notion, Photoshop, Figma
+- Notion, Photoshop
 
 ---
 
