@@ -45,7 +45,7 @@ Notion에 학습 과정을 체계적으로 정리하고 있으며, 코딩뿐 아
 ## 📫 연락처
 
 - Email: try123vv@naver.com  
-- GitHub: [junedeveloper](https://github.com/seoyoon0327)  
+- GitHub: (https://github.com/seoyoon0327)  
 - Blog (준비 중)
 
 ---
